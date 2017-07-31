@@ -1,4 +1,4 @@
-package newbie
+package playpen
 
 import "fmt"
 

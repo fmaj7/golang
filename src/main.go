@@ -1,7 +1,7 @@
 package main
 
-import "newbie"
+import "playpen"
 
 func main() {
-	newbie.PrintHelloWorld()
+	playpen.PrintHelloWorld()
 }
