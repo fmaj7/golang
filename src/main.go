@@ -1,6 +1,8 @@
 package main
 
-import "playpen"
+import (
+	"playpen"
+)
 
 func main() {
 	playpen.PrintHelloWorld()
